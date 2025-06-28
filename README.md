@@ -98,10 +98,7 @@ vishwas,2025-06-28 01-09-34,vishwas_2025-06-28 01-09-34.jpg
 
 ---
 
-## 🧑‍💻 Author
 
-* Vishwas Rallapalli
-* Project guided with ❤️ by ChatGPT
 
 ---
 
