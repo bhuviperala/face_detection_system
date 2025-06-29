@@ -84,7 +84,7 @@ python main.py
 
 ```
 Name,Timestamp,Image
-vishwas,2025-06-28 01-09-34,vishwas_2025-06-28 01-09-34.jpg
+
 ```
 
 ---
@@ -96,24 +96,4 @@ vishwas,2025-06-28 01-09-34,vishwas_2025-06-28 01-09-34.jpg
 * Telegram/email alerts
 * Face registration via webcam
 
----
 
-
-
----
-
-## 📜 License
-
-This project is open-source under the [MIT License](LICENSE).
-
-```
-
----
-
-Let me know if you want:
-- Badge styling (like "Python", "License", etc.)
-- Screenshots/GIF preview of the app in the README
-- Deployment instructions for Windows `.exe` or Raspberry Pi support
-
-I can help you turn this into a complete GitHub project! 🚀
-```
